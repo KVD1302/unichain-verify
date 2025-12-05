@@ -8,6 +8,7 @@ WORKDIR /app
 ARG internetConnectivityCheckEndpoint
 ARG internetConnectivityCheckTimeout
 ARG ovpClientId
+ARG ovpQrHeader
 
 ENV INTERNET_CONNECTIVITY_CHECK_ENDPOINT=$internetConnectivityCheckEndpoint
 ENV INTERNET_CONNECTIVITY_CHECK_TIMEOUT=$internetConnectivityCheckTimeout

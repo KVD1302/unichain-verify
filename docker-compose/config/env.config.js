@@ -1,0 +1,17 @@
+window._env_ = {
+  DEFAULT_TITLE: "Inji Verify",
+  DEFAULT_THEME: "default_theme",
+  DEFAULT_LANG: "en",
+  DEFAULT_FONT_FAMILY: "Inter, sans-serif",
+  DEFAULT_FONT_URL: "https://fonts.googleapis.com/css?family=Inter",
+  OVP_QR_HEADER: "INJI_OVP://",
+  DEFAULT_FAVICON: "favicon.ico",
+  INTERNET_CONNECTIVITY_CHECK_ENDPOINT: "https://dns.google/",
+  INTERNET_CONNECTIVITY_CHECK_TIMEOUT: "10000",
+  VERIFY_SERVICE_API_URL: "https://1728cb65c049.ngrok-free.app/v1/verify",
+  VERIFIABLE_CLAIMS_CONFIG_URL: "/assets/config.json",
+  VP_SUBMISSION_SUPPORTED: "false",
+  CLIENT_ID: "injiverify.dev-int-inji.mosip.net/",
+  CLIENT_ID_DID: "did:web:injiverify.dev-int-inji.mosip.net:v1:verify",
+  DISPLAY_TIMEOUT: "120000",
+};
