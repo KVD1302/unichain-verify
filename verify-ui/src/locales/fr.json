@@ -47,8 +47,7 @@
     "credentialsRequested": "Des informations d'identification ont été demandées",
     "walletSelectorTitle": "Panneau de sélection du portefeuille",
     "walletSelectorDescription": "Veuillez sélectionner un portefeuille pour procéder avec une présentation vérifiable.",
-    "walletSearchPlaceholder": "Portefeuilles de recherche",
-    "IconToolTip": "Les champs à côté de cette icône indiquent que les informations ont été partagées sélectivement par le porte-portefeuille."
+    "walletSearchPlaceholder": "Portefeuilles de recherche"
   },
   "VerificationStepsContent": {
     "SCAN": {
@@ -151,7 +150,7 @@
     "invalidParams": "Paramètres invalides !!"
   },
   "CopyRight": {
-    "content": "2025 © Hirekarma - Tous droits réservés."
+    "content": "2025 © Unichain - Propulsé par INJI - Tous droits réservés."
   },
   "CameraAccessDenied": {
     "header": "Accès à la caméra refusé",

@@ -47,8 +47,7 @@
     "credentialsRequested": "Credenciais foram solicitadas",
     "walletSelectorTitle": "Painel de seleção de carteira",
     "walletSelectorDescription": "Selecione uma carteira para prosseguir com a apresentação verificável.",
-    "walletSearchPlaceholder": "Carteiras de pesquisa",
-    "IconToolTip": "Os campos ao lado deste ícone indicam que as informações foram compartilhadas seletivamente pelo suporte da carteira."
+    "walletSearchPlaceholder": "Carteiras de pesquisa"
   },
   "VerificationStepsContent": {
     "SCAN": {
@@ -151,7 +150,7 @@
     "invalidParams": "Parâmetros inválidos!!"
   },
   "CopyRight": {
-    "content": "2025 © Hirekarma - Todos os direitos reservados."
+    "content": "2025 © Unichain - Desenvolvido por INJI - Todos os direitos reservados."
   },
   "CameraAccessDenied": {
     "header": "Acesso à câmera negado",

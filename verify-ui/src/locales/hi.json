@@ -47,8 +47,7 @@
     "credentialsRequested": "प्रमाणपत्रों का अनुरोध किया गया था",
     "walletSelectorTitle": "बटुए चयन पैनल",
     "walletSelectorDescription": "कृपया सत्यापन योग्य प्रस्तुति के साथ आगे बढ़ने के लिए एक वॉलेट का चयन करें।",
-    "walletSearchPlaceholder": "खोज बटुए",
-    "IconToolTip": "इस आइकन के बगल के फ़ील्ड से संकेत मिलता है कि जानकारी को बटुए धारक द्वारा चुनिंदा रूप से साझा किया गया था।"
+    "walletSearchPlaceholder": "खोज बटुए"
   },
   "VerificationStepsContent": {
     "SCAN": {
@@ -151,7 +150,7 @@
     "invalidParams": "अमान्य मापदण्ड!!"
   },
   "CopyRight": {
-    "content": "2025 © Hirekarma - सभी अधिकार सुरक्षित।"
+    "content": "2025 © यूनिचेन - INJI द्वारा संचालित - सभी अधिकार सुरक्षित।"
   },
   "CameraAccessDenied": {
     "header": "कैमरा एक्सेस अस्वीकृत",

@@ -47,8 +47,7 @@
     "credentialsRequested": "លិខិតសម្គាល់ត្រូវបានស្នើសុំ",
     "walletSelectorTitle": "បន្ទះជ្រើសរើសកាបូប",
     "walletSelectorDescription": "សូមជ្រើសរើសកាបូបដើម្បីបន្តការធ្វើបទបង្ហាញដែលអាចផ្ទៀងផ្ទាត់បាន។",
-    "walletSearchPlaceholder": "ស្វែងរកកាបូប",
-    "IconToolTip": "វាលនៅជាប់រូបតំណាងនេះបង្ហាញថាព័ត៌មានត្រូវបានចែករំលែកដោយម្ចាស់កាបូប។"
+    "walletSearchPlaceholder": "ស្វែងរកកាបូប"
   },
   "VerificationStepsContent": {
     "SCAN": {
@@ -151,7 +150,7 @@
     "invalidParams": "ប៉ារ៉ាម៉ែត្រ​មិន​ត្រឹមត្រូវ!!"
   },
   "CopyRight": {
-    "content": "២០២៥ © Hirekarma - រក្សាសិទ្ធិគ្រប់យ៉ាង។"
+    "content": "២០២៥ © Unichain - ដំណើរការដោយ INJI - រក្សាសិទ្ធិគ្រប់យ៉ាង។"
   },
   "CameraAccessDenied": {
     "header": "ការចូលប្រើកាមេរ៉ាត្រូវបានបដិសេធ",

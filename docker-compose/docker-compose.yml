@@ -25,7 +25,10 @@ services:
 
   verify-ui:
     container_name: verify-ui
-    image: mosipdev/inji-verify-ui:develop
+    build:
+      context: ../verify-ui
+      dockerfile: Dockerfile
+    image: mosipid/inji-verify-ui:local
     ports:
       - "3000:8000"
     environment:
